@@ -1,0 +1,5 @@
+{
+  "name": "postulamatch",
+  "description": "An advanced vacancy matching and intelligent study path generator using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
